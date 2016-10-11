@@ -144,3 +144,15 @@ clear: both;
 margin-bottom: 5px;
 pointer-events: auto;
 }
+
+#login-dropdown-list {
+position: absolute;
+top: -1px;
+left: -188px;
+}
+
+#login-buttons .login-close-text {
+float: right;
+position: relative;
+padding-bottom: 8px;
+}
