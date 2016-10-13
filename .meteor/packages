@@ -24,5 +24,4 @@ session
 sacha:spin
 iron:router
 accounts-ui
-useraccounts:iron-routing
 accounts-password
